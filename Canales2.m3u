@@ -1,0 +1,123 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="2" tvg-name="Frecuencia Latina" tvg-logo="http://78.47.174.211/logos/peru.png",Frecuencia Latina
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/42869
+#EXTINF:-1 tvg-id="3" tvg-name="Movistar Deportes" tvg-logo="http://78.47.174.211/logos/peru.png",Movistar Deportes
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/42884
+#EXTINF:-1 tvg-id="4" tvg-name="America TV" tvg-logo="http://78.47.174.211/logos/peru.png",America TV
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/42866
+#EXTINF:-1 tvg-id="5" tvg-name="Panamericana Televisión" tvg-logo="http://78.47.174.211/logos/peru.png",Panamericana Televisión
+http://latinoamericatv.vip:8080/AlexRivera/tNcNm6avPBLQ/135828
+#EXTINF:-1 tvg-id="6" tvg-name="Peru Magico" tvg-logo="http://78.47.174.211/logos/peru.png",Perú Mágico
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/42871
+#EXTINF:-1 tvg-id="7" tvg-name="TV Perú" tvg-logo="http://78.47.174.211/logos/peru.png",TV Perú
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/42872
+#EXTINF:-1 tvg-id="8" tvg-name="Canal N" tvg-logo="http://78.47.174.211/logos/peru.png",Canal N
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/42875
+#EXTINF:-1 tvg-id="9" tvg-name="9" tvg-logo="http://78.47.174.211/logos/peru.png",ATV
+http://latinoamericatv.vip:8080/AlexRivera/tNcNm6avPBLQ/135824
+#EXTINF:-1 tvg-id="10" tvg-name="RPP" tvg-logo="http://78.47.174.211/logos/peru.png",RPP
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/42877
+#EXTINF:-1 tvg-id="11" tvg-name="ATV+" tvg-logo="http://78.47.174.211/logos/peru.png",ATV+
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/42868
+#EXTINF:-1 tvg-id="12" tvg-name="TV Perú Noticias" tvg-logo="http://78.47.174.211/logos/peru.png",TV Perú Noticias
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/42874
+#EXTINF:-1 tvg-id="13" tvg-name="Global Televisión" tvg-logo="http://78.47.174.211/logos/peru.png",Global Televisión
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/42870
+#EXTINF:-1 tvg-id="14" tvg-name="Gol Peru" tvg-logo="http://78.47.174.211/logos/peru.png",Gol Perú
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/42883
+#EXTINF:-1 tvg-id="15" tvg-name="Liga 1 MAX" tvg-logo="http://78.47.174.211/logos/peru.png",Liga 1 MAX
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/48246
+#EXTINF:-1 tvg-id="16" tvg-name="Willax" tvg-logo="http://78.47.174.211/logos/peru.png",Willax
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/42879
+#EXTINF:-1 tvg-id="17" tvg-name="La Tele" tvg-logo="http://78.47.174.211/logos/peru.png",La Tele
+http://latinoamericatv.vip:8080/AlexRivera/tNcNm6avPBLQ/135842
+#EXTINF:-1 tvg-id="18" tvg-name="Karibeña TV" tvg-logo="http://78.47.174.211/logos/peru.png",Karibeña TV
+http://latinoamericatv.vip:8080/AlexRivera/tNcNm6avPBLQ/135834
+
+
+
+#EXTINF:-1 tvg-id="19" tvg-name="A&E" tvg-logo="http://78.47.174.211/logos/ae.png",A&E
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/78
+#EXTINF:-1 tvg-id="20" tvg-name="SONY" tvg-logo="http://78.47.174.211/logos/sony.png",SONY
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/79
+#EXTINF:-1 tvg-id="21" tvg-name="USA" tvg-logo="http://78.47.174.211/logos/syfy.png",USA
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/80
+#EXTINF:-1 tvg-id="22" tvg-name="LIFETIME" tvg-logo="http://78.47.174.211/logos/lifetime.png",LIFETIME
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/81
+#EXTINF:-1 tvg-id="23" tvg-name="AXN" tvg-logo="http://78.47.174.211/logos/axn.png",AXN
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/82
+#EXTINF:-1 tvg-id="24" tvg-name="TNT SERIES" tvg-logo="http://78.47.174.211/logos/tntseries.png",TNT SERIES  SD
+http://latinoamericatv.vip:8080/AlexRivera/tNcNm6avPBLQ/1250
+#EXTINF:-1 tvg-id="25" tvg-name="TCM" tvg-logo="http://78.47.174.211/logos/tcmusa.png",TCM
+http://latinoamericatv.vip:8080/AlexRivera/tNcNm6avPBLQ/1267
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="[ESP] TCM" tvg-logo="http://78.47.174.211/logos/espana.png" group-title="ESPAÑA LIVE",[ESP] TCM
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/37373
+#EXTINF:-1 tvg-id="tcm.mx" tvg-name="CINE & SERIES | TCM" tvg-logo="http://78.47.174.211/logos/tcm.png" group-title="CINE & SERIES",CINE & SERIES | TCM
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/83
+
+#EXTINF:-1 tvg-id="depelicula.mx" tvg-name="CINE & SERIES | DE PELICULA CLASICO" tvg-logo="http://78.47.174.211/logos/dpeliculaclasico.png" group-title="CINE & SERIES",CINE & SERIES | DE PELICULA CLASICO
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/85
+#EXTINF:-1 tvg-id="depeliculahd.mx" tvg-name="CINE & SERIES | DE PELICULA PLUS" tvg-logo="http://78.47.174.211/logos/dpeliculaplus.png" group-title="CINE & SERIES",CINE & SERIES | DE PELICULA PLUS
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/84
+#EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="CINE & SERIES | GOLDEN EDGE" tvg-logo="http://78.47.174.211/logos/goldenedge.png" group-title="CINE & SERIES",CINE & SERIES | GOLDEN EDGE
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/88
+#EXTINF:-1 tvg-id="1100" tvg-name="CINE & SERIES | GOLDEN PLUS" tvg-logo="http://78.47.174.211/logos/goldenplus.png" group-title="CINE & SERIES",CINE & SERIES | GOLDEN PLUS
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/89
+#EXTINF:-1 tvg-id="1268" tvg-name="CINE & SERIES | GOLDEN PREMIER" tvg-logo="http://78.47.174.211/logos/goldenpremier.png" group-title="CINE & SERIES",CINE & SERIES | GOLDEN PREMIER
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/90
+#EXTINF:-1 tvg-id="1100" tvg-name="CINE & SERIES | GOLDEN PREMIER 2" tvg-logo="http://78.47.174.211/logos/goldenpremier2.png" group-title="CINE & SERIES",CINE & SERIES | GOLDEN PREMIER 2
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/91
+#EXTINF:-1 tvg-id="1268" tvg-name="CINE & SERIES | MULTIPREMIER" tvg-logo="http://78.47.174.211/logos/multipremier.png" group-title="CINE & SERIES",CINE & SERIES | MULTIPREMIER
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/92
+#EXTINF:-1 tvg-id="fx.mx" tvg-name="CINE & SERIES | FX" tvg-logo="http://78.47.174.211/logos/fx.png" group-title="CINE & SERIES",CINE & SERIES | FX
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/93
+#EXTINF:-1 tvg-id="I209.15688.schedulesdirect.org" tvg-name="CINE & SERIES | STAR CHANNEL" tvg-logo="http://78.47.174.211/logos/starchannel.png" group-title="CINE & SERIES",CINE & SERIES | STAR CHANNEL
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/96
+#EXTINF:-1 tvg-id="1268" tvg-name="CINE & SERIES | STUDIO UNIVERSAL" tvg-logo="http://78.47.174.211/logos/studiouniversal.png" group-title="CINE & SERIES",CINE & SERIES | STUDIO UNIVERSAL
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/97
+#EXTINF:-1 tvg-id="1268" tvg-name="CINE & SERIES | UNIVERSAL TV" tvg-logo="http://78.47.174.211/logos/universaltv.png" group-title="CINE & SERIES",CINE & SERIES | UNIVERSAL TV
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/98
+#EXTINF:-1 tvg-id="paramountchannel.mx" tvg-name="CINE & SERIES | PARAMOUNT CHANNEL" tvg-logo="http://78.47.174.211/logos/paramount.png" group-title="CINE & SERIES",CINE & SERIES | PARAMOUNT CHANNEL
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/100
+#EXTINF:-1 tvg-id="1103" tvg-name="CINE & SERIES | TNT" tvg-logo="http://78.47.174.211/logos/tnt.png" group-title="CINE & SERIES",CINE & SERIES | TNT
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/102
+
+#EXTINF:-1 tvg-id="space.mx" tvg-name="CINE & SERIES | SPACE" tvg-logo="http://78.47.174.211/logos/space.png" group-title="CINE & SERIES",CINE & SERIES | SPACE
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/105
+#EXTINF:-1 tvg-id="1099" tvg-name="CINE & SERIES | CINEMAX" tvg-logo="http://78.47.174.211/logos/cinemax.png" group-title="CINE & SERIES",CINE & SERIES | CINEMAX
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/106
+#EXTINF:-1 tvg-id="1186" tvg-name="CINE & SERIES | CINECANAL" tvg-logo="http://78.47.174.211/logos/cinecanal.png" group-title="CINE & SERIES",CINE & SERIES | CINECANAL
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/107
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="CINE & SERIES | UNIVERSAL COMEDY" tvg-logo="http://78.47.174.211/logos/universalcomedy.png" group-title="CINE & SERIES",CINE & SERIES | UNIVERSAL COMEDY
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/111
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="CINE & SERIES | UNIVERSAL REALITY" tvg-logo="http://78.47.174.211/logos/universalreality.png" group-title="CINE & SERIES",CINE & SERIES | UNIVERSAL REALITY
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/112
+#EXTINF:-1 tvg-id="amc.mx" tvg-name="CINE & SERIES | AMC" tvg-logo="http://78.47.174.211/logos/amc.png" group-title="CINE & SERIES",CINE & SERIES | AMC
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/108
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="CINE & SERIES | UNIVERSAL CINEMA" tvg-logo="http://78.47.174.211/logos/universalcinema.png" group-title="CINE & SERIES",CINE & SERIES | UNIVERSAL CINEMA
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/113
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="CINE & SERIES | UNIVERSAL CRIME" tvg-logo="http://78.47.174.211/logos/universalcrime.png" group-title="CINE & SERIES",CINE & SERIES | UNIVERSAL CRIME
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/114
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="CINE & SERIES | UNIVERSAL PREMIERE" tvg-logo="http://78.47.174.211/logos/universalpremiere.png" group-title="CINE & SERIES",CINE & SERIES | UNIVERSAL PREMIERE
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/115
+#EXTINF:-1 tvg-id="1103" tvg-name="CINE & SERIES | HBO MUNDI" tvg-logo="http://78.47.174.211/logos/hbomundi.png" group-title="CINE & SERIES",CINE & SERIES | HBO MUNDI
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/117
+#EXTINF:-1 tvg-id="hboxtreme.mx" tvg-name="CINE & SERIES | HBO XTREME" tvg-logo="http://78.47.174.211/logos/hboxtreme.png" group-title="CINE & SERIES",CINE & SERIES | HBO XTREME
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/118
+#EXTINF:-1 tvg-id="hbosignature.mx" tvg-name="CINE & SERIES | HBO SIGNATURE" tvg-logo="http://78.47.174.211/logos/hbosignature.png" group-title="CINE & SERIES",CINE & SERIES | HBO SIGNATURE
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/119
+#EXTINF:-1 tvg-id="1103" tvg-name="CINE & SERIES | HBO FAMILY" tvg-logo="http://78.47.174.211/logos/hbofamily.png" group-title="CINE & SERIES",CINE & SERIES | HBO FAMILY
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/120
+#EXTINF:-1 tvg-id="1103" tvg-name="CINE & SERIES | HBO PLUS" tvg-logo="http://78.47.174.211/logos/hboplus.png" group-title="CINE & SERIES",CINE & SERIES | HBO PLUS
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/121
+#EXTINF:-1 tvg-id="1026" tvg-name="CINE & SERIES | HBO 2" tvg-logo="http://78.47.174.211/logos/hbo2.png" group-title="CINE & SERIES",CINE & SERIES | HBO 2
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/122
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="CINE & SERIES | HBO" tvg-logo="http://78.47.174.211/logos/hbo.png" group-title="CINE & SERIES",CINE & SERIES | HBO
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/123
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="CINE & SERIES | AZ CINEMA" tvg-logo="http://78.47.174.211/logos/azcinema.png" group-title="CINE & SERIES",CINE & SERIES | AZ CINEMA
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/86
+#EXTINF:-1 tvg-id="1099" tvg-name="CINE & SERIES | CINE LATINO" tvg-logo="http://78.47.174.211/logos/cinelatino.png" group-title="CINE & SERIES",CINE & SERIES | CINE LATINO
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/104
+#EXTINF:-1 tvg-id="canalcinemadinamita.mx" tvg-name="CINE & SERIES | CINEMA DINAMITA" tvg-logo="http://78.47.174.211/logos/cinemadinamita.png" group-title="CINE & SERIES",CINE & SERIES | CINEMA DINAMITA
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/10445
