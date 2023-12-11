@@ -1,525 +1,173 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="cnnenespanol.mx" tvg-name="NOTICIAS | CNN EN ESPAÑOL" tvg-logo="http://78.47.174.211/logos/cnn.png" group-title="NOTICIAS",NOTICIAS | CNN EN ESPAÑOL
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/44
-#EXTINF:-1 tvg-id="canaln.pe" tvg-name="PE| Canal N HD" tvg-logo="http://daleplay.club:8080/images/a80dbeabd0f501da52dcf0a8e631f039.png" group-title="TV | PERU",PE| Canal N HD
-http://latinoamericatv.vip:8080/AlexRivera/tNcNm6avPBLQ/135815
-#EXTINF:-1 tvg-id="canaln.pe" tvg-name="PE| Canal N SD" tvg-logo="http://daleplay.club:8080/images/a80dbeabd0f501da52dcf0a8e631f039.png" group-title="TV | PERU",PE| Canal N SD
-http://latinoamericatv.vip:8080/AlexRivera/tNcNm6avPBLQ/135816
-#EXTINF:-1 tvg-id="" tvg-name="PE| RPP" tvg-logo="http://daleplay.club:8080/images/c499e108105db252488745a0c2fce85a.png" group-title="TV | PERU",PE| RPP
-http://latinoamericatv.vip:8080/AlexRivera/tNcNm6avPBLQ/135831
-#EXTINF:-1 tvg-id="" tvg-name="[PE] Canal N" tvg-logo="http://78.47.174.211/logos/peru.png" group-title="PERU",[PE] Canal N
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/42875
-#EXTINF:-1 tvg-id="" tvg-name="[PE] RPP" tvg-logo="http://78.47.174.211/logos/peru.png" group-title="PERU",[PE] RPP
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/42877
-#EXTINF:-1 tvg-id="" tvg-name="SP: PE: Movistar Deportes" tvg-logo="http://78.47.174.211/logos/peru.png" group-title="PERU",SP: PE: Movistar Deportes
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/42884
-#EXTINF:-1 tvg-id="" tvg-name="SP: PE: Gol Peru" tvg-logo="http://78.47.174.211/logos/peru.png" group-title="PERU",SP: PE: Gol Peru
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/42883
-#EXTINF:-1 tvg-id="" tvg-name="SP: PE: Liga 1 MAX" tvg-logo="http://78.47.174.211/logos/peru.png" group-title="PERU",SP: PE: Liga 1 MAX
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/48246
-#EXTINF:-1 tvg-id="aandemundo.mx" tvg-name="CINE & SERIES | A&E" tvg-logo="http://78.47.174.211/logos/ae.png" group-title="CINE & SERIES",CINE & SERIES | A&E
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/78
-#EXTINF:-1 tvg-id="1268" tvg-name="CINE & SERIES | SONY" tvg-logo="http://78.47.174.211/logos/sony.png" group-title="CINE & SERIES",CINE & SERIES | SONY
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/79
-#EXTINF:-1 tvg-id="1099" tvg-name="CINE & SERIES | USA" tvg-logo="http://78.47.174.211/logos/syfy.png" group-title="CINE & SERIES",CINE & SERIES | USA
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/80
-#EXTINF:-1 tvg-id="1099" tvg-name="CINE & SERIES | LIFETIME" tvg-logo="http://78.47.174.211/logos/lifetime.png" group-title="CINE & SERIES",CINE & SERIES | LIFETIME
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/81
-#EXTINF:-1 tvg-id="axn.mx" tvg-name="CINE & SERIES | AXN" tvg-logo="http://78.47.174.211/logos/axn.png" group-title="CINE & SERIES",CINE & SERIES | AXN
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/82
-#EXTINF:-1 tvg-id="depelicula.mx" tvg-name="CINE & SERIES | DE PELICULA CLASICO" tvg-logo="http://78.47.174.211/logos/dpeliculaclasico.png" group-title="CINE & SERIES",CINE & SERIES | DE PELICULA CLASICO
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/85
-#EXTINF:-1 tvg-id="depeliculahd.mx" tvg-name="CINE & SERIES | DE PELICULA PLUS" tvg-logo="http://78.47.174.211/logos/dpeliculaplus.png" group-title="CINE & SERIES",CINE & SERIES | DE PELICULA PLUS
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/84
-#EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="CINE & SERIES | GOLDEN EDGE" tvg-logo="http://78.47.174.211/logos/goldenedge.png" group-title="CINE & SERIES",CINE & SERIES | GOLDEN EDGE
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/88
-#EXTINF:-1 tvg-id="1100" tvg-name="CINE & SERIES | GOLDEN PLUS" tvg-logo="http://78.47.174.211/logos/goldenplus.png" group-title="CINE & SERIES",CINE & SERIES | GOLDEN PLUS
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/89
-#EXTINF:-1 tvg-id="1268" tvg-name="CINE & SERIES | GOLDEN PREMIER" tvg-logo="http://78.47.174.211/logos/goldenpremier.png" group-title="CINE & SERIES",CINE & SERIES | GOLDEN PREMIER
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/90
-#EXTINF:-1 tvg-id="1100" tvg-name="CINE & SERIES | GOLDEN PREMIER 2" tvg-logo="http://78.47.174.211/logos/goldenpremier2.png" group-title="CINE & SERIES",CINE & SERIES | GOLDEN PREMIER 2
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/91
-#EXTINF:-1 tvg-id="1268" tvg-name="CINE & SERIES | MULTIPREMIER" tvg-logo="http://78.47.174.211/logos/multipremier.png" group-title="CINE & SERIES",CINE & SERIES | MULTIPREMIER
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/92
-#EXTINF:-1 tvg-id="fx.mx" tvg-name="CINE & SERIES | FX" tvg-logo="http://78.47.174.211/logos/fx.png" group-title="CINE & SERIES",CINE & SERIES | FX
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/93
-#EXTINF:-1 tvg-id="I209.15688.schedulesdirect.org" tvg-name="CINE & SERIES | STAR CHANNEL" tvg-logo="http://78.47.174.211/logos/starchannel.png" group-title="CINE & SERIES",CINE & SERIES | STAR CHANNEL
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/96
-#EXTINF:-1 tvg-id="1268" tvg-name="CINE & SERIES | STUDIO UNIVERSAL" tvg-logo="http://78.47.174.211/logos/studiouniversal.png" group-title="CINE & SERIES",CINE & SERIES | STUDIO UNIVERSAL
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/97
-#EXTINF:-1 tvg-id="1268" tvg-name="CINE & SERIES | UNIVERSAL TV" tvg-logo="http://78.47.174.211/logos/universaltv.png" group-title="CINE & SERIES",CINE & SERIES | UNIVERSAL TV
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/98
-#EXTINF:-1 tvg-id="paramountchannel.mx" tvg-name="CINE & SERIES | PARAMOUNT CHANNEL" tvg-logo="http://78.47.174.211/logos/paramount.png" group-title="CINE & SERIES",CINE & SERIES | PARAMOUNT CHANNEL
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/100
-#EXTINF:-1 tvg-id="1103" tvg-name="CINE & SERIES | TNT" tvg-logo="http://78.47.174.211/logos/tnt.png" group-title="CINE & SERIES",CINE & SERIES | TNT
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/102
-#EXTINF:-1 tvg-id="tntseries.mx" tvg-name="CINE & SERIES | TNT SERIES" tvg-logo="http://78.47.174.211/logos/tntseries.png" group-title="CINE & SERIES",CINE & SERIES | TNT SERIES
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/103
-#EXTINF:-1 tvg-id="space.mx" tvg-name="CINE & SERIES | SPACE" tvg-logo="http://78.47.174.211/logos/space.png" group-title="CINE & SERIES",CINE & SERIES | SPACE
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/105
-#EXTINF:-1 tvg-id="1099" tvg-name="CINE & SERIES | CINEMAX" tvg-logo="http://78.47.174.211/logos/cinemax.png" group-title="CINE & SERIES",CINE & SERIES | CINEMAX
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/106
-#EXTINF:-1 tvg-id="1186" tvg-name="CINE & SERIES | CINECANAL" tvg-logo="http://78.47.174.211/logos/cinecanal.png" group-title="CINE & SERIES",CINE & SERIES | CINECANAL
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/107
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="CINE & SERIES | UNIVERSAL COMEDY" tvg-logo="http://78.47.174.211/logos/universalcomedy.png" group-title="CINE & SERIES",CINE & SERIES | UNIVERSAL COMEDY
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/111
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="CINE & SERIES | UNIVERSAL REALITY" tvg-logo="http://78.47.174.211/logos/universalreality.png" group-title="CINE & SERIES",CINE & SERIES | UNIVERSAL REALITY
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/112
-#EXTINF:-1 tvg-id="amc.mx" tvg-name="CINE & SERIES | AMC" tvg-logo="http://78.47.174.211/logos/amc.png" group-title="CINE & SERIES",CINE & SERIES | AMC
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/108
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="CINE & SERIES | UNIVERSAL CINEMA" tvg-logo="http://78.47.174.211/logos/universalcinema.png" group-title="CINE & SERIES",CINE & SERIES | UNIVERSAL CINEMA
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/113
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="CINE & SERIES | UNIVERSAL CRIME" tvg-logo="http://78.47.174.211/logos/universalcrime.png" group-title="CINE & SERIES",CINE & SERIES | UNIVERSAL CRIME
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/114
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="CINE & SERIES | UNIVERSAL PREMIERE" tvg-logo="http://78.47.174.211/logos/universalpremiere.png" group-title="CINE & SERIES",CINE & SERIES | UNIVERSAL PREMIERE
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/115
-#EXTINF:-1 tvg-id="1103" tvg-name="CINE & SERIES | HBO MUNDI" tvg-logo="http://78.47.174.211/logos/hbomundi.png" group-title="CINE & SERIES",CINE & SERIES | HBO MUNDI
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/117
-#EXTINF:-1 tvg-id="hboxtreme.mx" tvg-name="CINE & SERIES | HBO XTREME" tvg-logo="http://78.47.174.211/logos/hboxtreme.png" group-title="CINE & SERIES",CINE & SERIES | HBO XTREME
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/118
-#EXTINF:-1 tvg-id="hbosignature.mx" tvg-name="CINE & SERIES | HBO SIGNATURE" tvg-logo="http://78.47.174.211/logos/hbosignature.png" group-title="CINE & SERIES",CINE & SERIES | HBO SIGNATURE
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/119
-#EXTINF:-1 tvg-id="1103" tvg-name="CINE & SERIES | HBO FAMILY" tvg-logo="http://78.47.174.211/logos/hbofamily.png" group-title="CINE & SERIES",CINE & SERIES | HBO FAMILY
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/120
-#EXTINF:-1 tvg-id="1103" tvg-name="CINE & SERIES | HBO PLUS" tvg-logo="http://78.47.174.211/logos/hboplus.png" group-title="CINE & SERIES",CINE & SERIES | HBO PLUS
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/121
-#EXTINF:-1 tvg-id="1026" tvg-name="CINE & SERIES | HBO 2" tvg-logo="http://78.47.174.211/logos/hbo2.png" group-title="CINE & SERIES",CINE & SERIES | HBO 2
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/122
-#EXTINF:-1 tvg-id="hbo.mx" tvg-name="CINE & SERIES | HBO" tvg-logo="http://78.47.174.211/logos/hbo.png" group-title="CINE & SERIES",CINE & SERIES | HBO
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/123
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="CINE & SERIES | AZ CINEMA" tvg-logo="http://78.47.174.211/logos/azcinema.png" group-title="CINE & SERIES",CINE & SERIES | AZ CINEMA
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/86
-#EXTINF:-1 tvg-id="1099" tvg-name="CINE & SERIES | CINE LATINO" tvg-logo="http://78.47.174.211/logos/cinelatino.png" group-title="CINE & SERIES",CINE & SERIES | CINE LATINO
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/104
-#EXTINF:-1 tvg-id="canalcinemadinamita.mx" tvg-name="CINE & SERIES | CINEMA DINAMITA" tvg-logo="http://78.47.174.211/logos/cinemadinamita.png" group-title="CINE & SERIES",CINE & SERIES | CINEMA DINAMITA
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/10445
-#EXTINF:-1 tvg-id="" tvg-name="I-Telemundo Miami" tvg-logo="http://78.47.174.211/logos/telemundo.png" group-title="TELEMUNDO +",I-Telemundo Miami
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/40240
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo PR" tvg-logo="http://78.47.174.211/logos/telemundo.png" group-title="TELEMUNDO +",Telemundo PR
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/40266
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION MIAMI" tvg-logo="http://78.47.174.211/logos/univision.png" group-title="UNIVISION +",UNIVISION MIAMI
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/40290
-#EXTINF:-1 tvg-id="EPG123.68040.schedulesdirect.org" tvg-name="US | UNIMAS" tvg-logo="http://78.47.174.211/logos/unimas.png" group-title="US | CHANNELS",US | UNIMAS
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/220
-#EXTINF:-1 tvg-id="I442.65064.zap2it.com" tvg-name="US | ESTRELLA TV" tvg-logo="http://78.47.174.211/logos/estrellatv.png" group-title="US | CHANNELS",US | ESTRELLA TV
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/291
-#EXTINF:-1 tvg-id="EPG123.11118.schedulesdirect.org" tvg-name="US | UNIVISION" tvg-logo="http://78.47.174.211/logos/univision.png" group-title="US | CHANNELS",US | UNIVISION
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/307
-#EXTINF:-1 tvg-id="EPG123.10222.schedulesdirect.org" tvg-name="US | GALAVISION" tvg-logo="http://78.47.174.211/logos/galavision.png" group-title="US | CHANNELS",US | GALAVISION
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/364
-#EXTINF:-1 tvg-id="unicable.mx" tvg-name="ENTRETENIMIENTO | UNICABLE" tvg-logo="http://78.47.174.211/logos/unicable.png" group-title="ENTRETENIMIENTO",ENTRETENIMIENTO | UNICABLE
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/17
-#EXTINF:-1 tvg-id="comedycentral.mx" tvg-name="ENTRETENIMIENTO | COMEDY CENTRAL" tvg-logo="http://78.47.174.211/logos/comedycentral.png" group-title="ENTRETENIMIENTO",ENTRETENIMIENTO | COMEDY CENTRAL
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/58
-#EXTINF:-1 tvg-id="distritocomedia.mx" tvg-name="ENTRETENIMIENTO | DISTRITO COMEDIA" tvg-logo="http://78.47.174.211/logos/distritocomedia.png" group-title="ENTRETENIMIENTO",ENTRETENIMIENTO | DISTRITO COMEDIA
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/59
-#EXTINF:-1 tvg-id="elgourmet.mx" tvg-name="ENTRETENIMIENTO | EL GOURMET" tvg-logo="http://78.47.174.211/logos/elgourmet.png" group-title="ENTRETENIMIENTO",ENTRETENIMIENTO | EL GOURMET
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/70
-#EXTINF:-1 tvg-id="I265.113656.schedulesdirect.org" tvg-name="ENTRETENIMIENTO | FOOD NETWORK" tvg-logo="http://78.47.174.211/logos/foodnetwork.png" group-title="ENTRETENIMIENTO",ENTRETENIMIENTO | FOOD NETWORK
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/71
-#EXTINF:-1 tvg-id="eentertainment.mx" tvg-name="ENTRETENIMIENTO | E! ENTERTAIMENT" tvg-logo="http://78.47.174.211/logos/e.png" group-title="ENTRETENIMIENTO",ENTRETENIMIENTO | E! ENTERTAIMENT
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/72
-#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="ENTRETENIMIENTO | DISCOVERY HOME & HEALTH" tvg-logo="http://78.47.174.211/logos/discoveryhomehealth.png" group-title="ENTRETENIMIENTO",ENTRETENIMIENTO | DISCOVERY HOME & HEALTH
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/73
-#EXTINF:-1 tvg-id="FX.mx" tvg-name="ENTRETENIMIENTO | FX" tvg-logo="http://78.47.174.211/logos/trutv.png" group-title="ENTRETENIMIENTO",ENTRETENIMIENTO | FX
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/76
-#EXTINF:-1 tvg-id="I1.82970.schedulesdirect.org" tvg-name="ENTRETENIMIENTO | HOLA TV" tvg-logo="http://78.47.174.211/logos/holatv.png" group-title="ENTRETENIMIENTO",ENTRETENIMIENTO | HOLA TV
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/292
-#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="M&C | ANIMAL PLANET" tvg-logo="http://78.47.174.211/logos/animalplanet.png" group-title="MUNDO & CULTURA",M&C | ANIMAL PLANET
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/60
-#EXTINF:-1 tvg-id="natgeo.mx" tvg-name="M&C | NATGEO" tvg-logo="http://78.47.174.211/logos/natgeo.png" group-title="MUNDO & CULTURA",M&C | NATGEO
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/61
-#EXTINF:-1 tvg-id="1013" tvg-name="M&C | HISTORY" tvg-logo="http://78.47.174.211/logos/history.png" group-title="MUNDO & CULTURA",M&C | HISTORY
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/62
-#EXTINF:-1 tvg-id="history2.mx" tvg-name="M&C | HISTORY 2" tvg-logo="http://78.47.174.211/logos/h2.png" group-title="MUNDO & CULTURA",M&C | HISTORY 2
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/63
-#EXTINF:-1 tvg-id="1099" tvg-name="M&C | DISCOVERY CHANNEL" tvg-logo="http://78.47.174.211/logos/discoverychannel.png" group-title="MUNDO & CULTURA",M&C | DISCOVERY CHANNEL
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/64
-#EXTINF:-1 tvg-id="discoverycivilization.mx" tvg-name="M&C | HGTV (Discovery Civilization)" tvg-logo="http://78.47.174.211/logos/hgtv.png" group-title="MUNDO & CULTURA",M&C | HGTV (Discovery Civilization)
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/65
-#EXTINF:-1 tvg-id="1103" tvg-name="M&C | DISCOVERY INVESTIGATION" tvg-logo="http://78.47.174.211/logos/discoveryinvestigation.png" group-title="MUNDO & CULTURA",M&C | DISCOVERY INVESTIGATION
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/66
-#EXTINF:-1 tvg-id="discoveryhdtheater.mx" tvg-name="M&C | DISCOVERY THEATER" tvg-logo="http://78.47.174.211/logos/discoverytheater.png" group-title="MUNDO & CULTURA",M&C | DISCOVERY THEATER
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/67
-#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="M&C | DISCOVERY WORLD" tvg-logo="http://78.47.174.211/logos/discoveryworld.png" group-title="MUNDO & CULTURA",M&C | DISCOVERY WORLD
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/68
-#EXTINF:-1 tvg-id="discoveryturbo.mx" tvg-name="M&C | DISCOVERY TURBO" tvg-logo="http://78.47.174.211/logos/discoveryturbo.png" group-title="MUNDO & CULTURA",M&C | DISCOVERY TURBO
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/69
-#EXTINF:-1 tvg-id="discoveryscience.mx" tvg-name="M&C | DISCOVERY SCIENCE" tvg-logo="http://78.47.174.211/logos/discoveryscience.png" group-title="MUNDO & CULTURA",M&C | DISCOVERY SCIENCE
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/486
-#EXTINF:-1 tvg-id="1026" tvg-name="MX | CANAL 5" tvg-logo="http://78.47.174.211/logos/canal5.png" group-title="MEXICO",MX | CANAL 5
+#EXTINF:-1 tvg-id="1" tvg-logo="http://78.47.174.211/logos/canal5.png" group-title="MEXICO",CANAL 5
 http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/2
-#EXTINF:-1 tvg-id="1013" tvg-name="MX | AZTECA 7" tvg-logo="http://78.47.174.211/logos/azteca7.png" group-title="MEXICO",MX | AZTECA 7
+#EXTINF:-1 tvg-id="2" tvg-logo="http://78.47.174.211/logos/azteca7.png" group-title="MEXICO",AZTECA 7
 http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/3
-#EXTINF:-1 tvg-id="1013" tvg-name="MX | A+" tvg-logo="http://78.47.174.211/logos/amas.png" group-title="MEXICO",MX | A+
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/4
-#EXTINF:-1 tvg-id="1058" tvg-name="MX | GALA TV" tvg-logo="http://78.47.174.211/logos/galatv.png" group-title="MEXICO",MX | GALA TV
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/6
-#EXTINF:-1 tvg-id="1268" tvg-name="MX | AZ CORAZON" tvg-logo="http://78.47.174.211/logos/azcorazon.png" group-title="MEXICO",MX | AZ CORAZON
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/14
-#EXTINF:-1 tvg-id="1012" tvg-name="MX | AZ MUNDO" tvg-logo="http://78.47.174.211/logos/azmundo.png" group-title="MEXICO",MX | AZ MUNDO
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/15
-#EXTINF:-1 tvg-id="1100" tvg-name="MX | TLNOVELAS" tvg-logo="http://78.47.174.211/logos/tlnovelas.png" group-title="MEXICO",MX | TLNOVELAS
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/16
-#EXTINF:-1 tvg-id="1100" tvg-name="MX | LAS ESTRELLAS" tvg-logo="http://78.47.174.211/logos/lasestrellas.png" group-title="MEXICO",MX | LAS ESTRELLAS
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/1
-#EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="MX | LAS ESTRELLAS -2 HORAS" tvg-logo="http://78.47.174.211/logos/lasestrellas-2horas.png" group-title="MEXICO",MX | LAS ESTRELLAS -2 HORAS
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/573
-#EXTINF:-1 tvg-id="panico.mx" tvg-name="CINE & SERIES | PANICO" tvg-logo="http://78.47.174.211/logos/panico.png" group-title="CINE & SERIES",CINE & SERIES | PANICO
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/726
-#EXTINF:-1 tvg-id="" tvg-name="MX | MULTIMEDIOS CDMX" tvg-logo="http://78.47.174.211/logos/multimedios.png" group-title="MEXICO",MX | MULTIMEDIOS CDMX
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/9981
-#EXTINF:-1 tvg-id="1100" tvg-name="MX | AZTECA UNO" tvg-logo="http://78.47.174.211/logos/aztecauno.png" group-title="MEXICO",MX | AZTECA UNO
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/29178
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="MX | AZTECA UNO -2 HORAS" tvg-logo="http://78.47.174.211/logos/aztecauno-2horas.png" group-title="MEXICO",MX | AZTECA UNO -2 HORAS
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/9982
-#EXTINF:-1 tvg-id="tbs.mx" tvg-name="MX | TNT NOVELAS" tvg-logo="http://78.47.174.211/logos/tbs.png" group-title="MEXICO",MX | TNT NOVELAS
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/48
-#EXTINF:-1 tvg-id="1268" tvg-name="MX | CANAL ONCE" tvg-logo="http://78.47.174.211/logos/oncetv.png" group-title="MEXICO",MX | CANAL ONCE
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/109
-#EXTINF:-1 tvg-id="" tvg-name="MX | CANAL 22" tvg-logo="http://78.47.174.211/logos/canal22.png" group-title="MEXICO",MX | CANAL 22
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/54108
-#EXTINF:-1 tvg-id="1053" tvg-name="NOTICIAS | FORO TV" tvg-logo="http://78.47.174.211/logos/forotv.png" group-title="NOTICIAS",NOTICIAS | FORO TV
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/10
-#EXTINF:-1 tvg-id="1026" tvg-name="NOTICIAS | ADN 40" tvg-logo="http://78.47.174.211/logos/adn40.png" group-title="NOTICIAS",NOTICIAS | ADN 40
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/11
-#EXTINF:-1 tvg-id="imagentv.mx" tvg-name="NOTICIAS | IMAGEN TV" tvg-logo="http://78.47.174.211/logos/imagentv.png" group-title="NOTICIAS",NOTICIAS | IMAGEN TV
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/12
-#EXTINF:-1 tvg-id="canalmexiquense.mx" tvg-name="NOTICIAS | MEXIQUENSE TV" tvg-logo="http://78.47.174.211/logos/mexiquense.png" group-title="NOTICIAS",NOTICIAS | MEXIQUENSE TV
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/13
-#EXTINF:-1 tvg-id="cnnenespanol.mx" tvg-name="NOTICIAS | CNN EN ESPAÑOL" tvg-logo="http://78.47.174.211/logos/cnn.png" group-title="NOTICIAS",NOTICIAS | CNN EN ESPAÑOL
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/44
-#EXTINF:-1 tvg-id="I490.69367.schedulesdirect.org" tvg-name="NOTICIAS | RT EN ESPAÑOL" tvg-logo="http://78.47.174.211/logos/rtespanol.png" group-title="NOTICIAS",NOTICIAS | RT EN ESPAÑOL
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/45
-#EXTINF:-1 tvg-id="dwdeutschplus.mx" tvg-name="NOTICIAS | DW EN ESPAÑOL" tvg-logo="http://78.47.174.211/logos/dwespanol.png" group-title="NOTICIAS",NOTICIAS | DW EN ESPAÑOL
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/46
-#EXTINF:-1 tvg-id="" tvg-name="US | FOX NEWS" tvg-logo="http://78.47.174.211/logos/foxnews.png" group-title="US | NEWS",US | FOX NEWS
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/254
-#EXTINF:-1 tvg-id="mtv.mx" tvg-name="MUSICA | MTV" tvg-logo="http://78.47.174.211/logos/mtv.png" group-title="MUSICA",MUSICA | MTV
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/33
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="MUSICA | MTV LIVE" tvg-logo="http://78.47.174.211/logos/mtvlive.png" group-title="MUSICA",MUSICA | MTV LIVE
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/34
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="MUSICA | MTV HITS" tvg-logo="http://78.47.174.211/logos/mtvhits.png" group-title="MUSICA",MUSICA | MTV HITS
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/35
-#EXTINF:-1 tvg-id="1186" tvg-name="MUSICA | TELEHIT MUSICA PLUS" tvg-logo="http://78.47.174.211/logos/telehitmusicaplus.png" group-title="MUSICA",MUSICA | TELEHIT MUSICA PLUS
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/36
-#EXTINF:-1 tvg-id="bandamax.mx" tvg-name="MUSICA | BANDAMAX" tvg-logo="http://78.47.174.211/logos/bandamax.png" group-title="MUSICA",MUSICA | BANDAMAX
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/37
-#EXTINF:-1 tvg-id="I611.32749.schedulesdirect.org" tvg-name="MUSICA | TELERITMO" tvg-logo="http://78.47.174.211/logos/teleritmo.png" group-title="MUSICA",MUSICA | TELERITMO
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/38
-#EXTINF:-1 tvg-id="telehit.mx" tvg-name="MUSICA | TELEHIT MUSICA" tvg-logo="http://78.47.174.211/logos/telehitmusica.png" group-title="MUSICA",MUSICA | TELEHIT MUSICA
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/39
-
-#EXTINF:-1 tvg-id="" tvg-name="US | MTV 2" tvg-logo="http://78.47.174.211/logos/mtv2.png" group-title="US | MUSIC",US | MTV 2
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/231
-#EXTINF:-1 tvg-id="" tvg-name="US | MTV CLASSICS" tvg-logo="http://78.47.174.211/logos/mtvclassic.png" group-title="US | MUSIC",US | MTV CLASSICS
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/230
-#EXTINF:-1 tvg-id="" tvg-name="US | MTV" tvg-logo="http://78.47.174.211/logos/mtv.png" group-title="US | MUSIC",US | MTV
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/229
-#EXTINF:-1 tvg-id="nickelodeon.mx" tvg-name="INFANTILES | NICK" tvg-logo="http://78.47.174.211/logos/nick.png" group-title="INFANTILES",INFANTILES | NICK
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/18
-#EXTINF:-1 tvg-id="1012" tvg-name="INFANTILES | DISNEY CHANNEL" tvg-logo="http://78.47.174.211/logos/disneychannel.png" group-title="INFANTILES",INFANTILES | DISNEY CHANNEL
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/23
-#EXTINF:-1 tvg-id="discoverykids.mx" tvg-name="INFANTILES | DISCOVERY KIDS" tvg-logo="http://78.47.174.211/logos/discoverykids.png" group-title="INFANTILES",INFANTILES | DISCOVERY KIDS
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/25
-#EXTINF:-1 tvg-id="disneyjunior.mx" tvg-name="INFANTILES | DISNEY JR." tvg-logo="http://78.47.174.211/logos/disneyjunior.png" group-title="INFANTILES",INFANTILES | DISNEY JR.
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/26
-#EXTINF:-1 tvg-id="1012" tvg-name="INFANTILES | CARTOONITO (Boomerang)" tvg-logo="http://78.47.174.211/logos/boomerang.png" group-title="INFANTILES",INFANTILES | CARTOONITO (Boomerang)
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/28
-#EXTINF:-1 tvg-id="1118" tvg-name="DEPORTES | TUDN MX" tvg-logo="http://78.47.174.211/logos/tudn.png" group-title="DEPORTES",DEPORTES | TUDN MX
+#EXTINF:-1 tvg-id="3" tvg-logo="http://78.47.174.211/logos/tudn.png" group-title="DEPORTES",TUDN MX
 http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/141
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="DEPORTES | TUDN US" tvg-logo="http://78.47.174.211/logos/tudnusa.png" group-title="DEPORTES",DEPORTES | TUDN US
+#EXTINF:-1 tvg-id="4" tvg-logo="http://78.47.174.211/logos/tudnusa.png" group-title="DEPORTES",TUDN USA
 http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/142
-#EXTINF:-1 tvg-id="1103" tvg-name="DEPORTES | FOX SPORTS 1 MX" tvg-logo="http://78.47.174.211/logos/foxsports.png" group-title="DEPORTES",DEPORTES | FOX SPORTS 1 MX
+#EXTINF:-1 tvg-id="5" tvg-logo="http://78.47.174.211/logos/foxsports.png" group-title="DEPORTES",FOX SPORTS 1 MX
 http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/124
-#EXTINF:-1 tvg-id="1103" tvg-name="DEPORTES | FOX SPORTS 2 MX" tvg-logo="http://78.47.174.211/logos/foxsports2.png" group-title="DEPORTES",DEPORTES | FOX SPORTS 2 MX
+#EXTINF:-1 tvg-id="6" tvg-logo="http://78.47.174.211/logos/foxsports2.png" group-title="DEPORTES",FOX SPORTS 2 MX
 http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/125
-#EXTINF:-1 tvg-id="1103" tvg-name="DEPORTES | FOX SPORTS 3 MX" tvg-logo="http://78.47.174.211/logos/foxsports3.png" group-title="DEPORTES",DEPORTES | FOX SPORTS 3 MX
+#EXTINF:-1 tvg-id="7" tvg-logo="http://78.47.174.211/logos/foxsports3.png" group-title="DEPORTES",FOX SPORTS 3 MX
 http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/126
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | FOX SPORTS PREMIUM (MX)" tvg-logo="http://78.47.174.211/logos/foxsportspremiummx.png" group-title="DEPORTES",DEPORTES | FOX SPORTS PREMIUM (MX)
+#EXTINF:-1 tvg-id="8" tvg-logo="http://78.47.174.211/logos/foxsportspremiummx.png" group-title="DEPORTES",FOX SPORTS PREMIUM (MX)
 http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/15515
-#EXTINF:-1 tvg-id="1103" tvg-name="DEPORTES | ESPN 1 MX" tvg-logo="http://78.47.174.211/logos/espn.png" group-title="DEPORTES",DEPORTES | ESPN 1 MX
+#EXTINF:-1 tvg-id="9" tvg-logo="http://78.47.174.211/logos/espn.png" group-title="DEPORTES",ESPN 1 MX
 http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/131
-#EXTINF:-1 tvg-id="1103" tvg-name="DEPORTES | ESPN 2 MX" tvg-logo="http://78.47.174.211/logos/espn2.png" group-title="DEPORTES",DEPORTES | ESPN 2 MX
+#EXTINF:-1 tvg-id="10" tvg-logo="http://78.47.174.211/logos/espn2.png" group-title="DEPORTES",ESPN 2 MX
 http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/132
-#EXTINF:-1 tvg-id="1103" tvg-name="DEPORTES | ESPN 3 MX" tvg-logo="http://78.47.174.211/logos/espn3.png" group-title="DEPORTES",DEPORTES | ESPN 3 MX
+#EXTINF:-1 tvg-id="11" tvg-logo="http://78.47.174.211/logos/espn3.png" group-title="DEPORTES",ESPN 3 MX
 http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/133
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 4" tvg-logo="http://78.47.174.211/logos/espn4.png" group-title="DEPORTES",DEPORTES | ESPN 4
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/15517
-#EXTINF:-1 tvg-id="1103" tvg-name="DEPORTES | ESPN Extra MX" tvg-logo="http://78.47.174.211/logos/espnplus.png" group-title="DEPORTES",DEPORTES | ESPN Extra MX
+#EXTINF:-1 tvg-id="13" tvg-logo="http://78.47.174.211/logos/espnplus.png" group-title="DEPORTES",ESPN Extra MX
 http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/130
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | AZTECA DEPORTES NETWORK" tvg-logo="http://78.47.174.211/logos/aztecadeportes.png" group-title="DEPORTES",DEPORTES | AZTECA DEPORTES NETWORK
+#EXTINF:-1 tvg-id="14" tvg-logo="http://78.47.174.211/logos/aztecadeportes.png" group-title="DEPORTES",AZTECA DEPORTES NETWORK
 http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/53296
-#EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="DEPORTES | AFIZZIONADOS" tvg-logo="http://78.47.174.211/logos/afizzionados.png" group-title="DEPORTES",DEPORTES | AFIZZIONADOS
+#EXTINF:-1 tvg-id="15" tvg-name="DEPORTES | AFIZZIONADOS" tvg-logo="http://78.47.174.211/logos/afizzionados.png" group-title="DEPORTES",AFIZZIONADOS
 http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/269
-#EXTINF:-1 tvg-id="tvcdeportes.mx" tvg-name="DEPORTES | TVC DEPORTES" tvg-logo="http://78.47.174.211/logos/tvcdeportes.png" group-title="DEPORTES",DEPORTES | TVC DEPORTES
+#EXTINF:-1 tvg-id="16" tvg-logo="http://78.47.174.211/logos/tvcdeportes.png" group-title="DEPORTES",TVC DEPORTES
 http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/270
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | GOL TV EN ESPAÑOL" tvg-logo="http://78.47.174.211/logos/goltv.png" group-title="DEPORTES",DEPORTES | GOL TV EN ESPAÑOL
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/261
-#EXTINF:-1 tvg-id="" tvg-name="TigoSports | Bolivia 1" tvg-logo="http://78.47.174.211/logos/tigosports.png" group-title="TIGO SPORTS",TigoSports | Bolivia 1
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/29836
-#EXTINF:-1 tvg-id="" tvg-name="TigoSports | Bolivia 2" tvg-logo="http://78.47.174.211/logos/tigosports.png" group-title="TIGO SPORTS",TigoSports | Bolivia 2
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/29837
-#EXTINF:-1 tvg-id="" tvg-name="TigoSports | Bolivia 3" tvg-logo="http://78.47.174.211/logos/tigosports.png" group-title="TIGO SPORTS",TigoSports | Bolivia 3
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/29838
-#EXTINF:-1 tvg-id="" tvg-name="TigoSports | Costa Rica" tvg-logo="http://78.47.174.211/logos/tigosports.png" group-title="TIGO SPORTS",TigoSports | Costa Rica
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/29841
-#EXTINF:-1 tvg-id="" tvg-name="TigoSports | El Salvador" tvg-logo="http://78.47.174.211/logos/tigosports.png" group-title="TIGO SPORTS",TigoSports | El Salvador
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/29842
-#EXTINF:-1 tvg-id="" tvg-name="TigoSports | Honduras" tvg-logo="http://78.47.174.211/logos/tigosports.png" group-title="TIGO SPORTS",TigoSports | Honduras
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/29843
-#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="DEPORTES | EUROSPORT 1" tvg-logo="http://78.47.174.211/logos/eurosport.png" group-title="DEPORTES",DEPORTES | EUROSPORT 1
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/276
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="DEPORTES | EUROSPORT 2" tvg-logo="http://78.47.174.211/logos/eurosport2.png" group-title="DEPORTES",DEPORTES | EUROSPORT 2
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/277
-#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="DEPORTES | REAL MADRID TV" tvg-logo="http://78.47.174.211/logos/realmadridtv.png" group-title="DEPORTES",DEPORTES | REAL MADRID TV
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/278
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | BEIN SPORTS EN ESPAÑOL" tvg-logo="http://78.47.174.211/logos/beinsportsespanol.png" group-title="DEPORTES",DEPORTES | BEIN SPORTS EN ESPAÑOL
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/280
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | DIRECTV SPORTS PLUS" tvg-logo="http://78.47.174.211/logos/directvsportsplus.png" group-title="DEPORTES",DEPORTES | DIRECTV SPORTS PLUS
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/312
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | DIRECTV SPORTS" tvg-logo="http://78.47.174.211/logos/directvsports.png" group-title="DEPORTES",DEPORTES | DIRECTV SPORTS
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/313
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | DIRECTV SPORTS 2" tvg-logo="http://78.47.174.211/logos/directvsports2.png" group-title="DEPORTES",DEPORTES | DIRECTV SPORTS 2
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/314
-#EXTINF:-1 tvg-id="EPG123.50263.schedulesdirect.org" tvg-name="DEPORTES | GARAGE TV" tvg-logo="http://78.47.174.211/logos/garagetv.png" group-title="DEPORTES",DEPORTES | GARAGE TV
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/523
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="DEPORTES | CLARO SPORTS" tvg-logo="http://78.47.174.211/logos/clarosports.png" group-title="DEPORTES",DEPORTES | CLARO SPORTS
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/293
-#EXTINF:-1 tvg-id="EPG123.87031.schedulesdirect.org" tvg-name="DEPORTES | WIN SPORTS" tvg-logo="http://78.47.174.211/logos/winsports.png" group-title="DEPORTES",DEPORTES | WIN SPORTS
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/6377
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | WIN SPORTS +" tvg-logo="http://78.47.174.211/logos/winsportsplus.png" group-title="DEPORTES",DEPORTES | WIN SPORTS +
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/6378
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TNT SPORTS CHILE" tvg-logo="http://78.47.174.211/logos/tntsports2arg.png" group-title="DEPORTES",DEPORTES | TNT SPORTS CHILE
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/6380
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ELEVEN SPORTS 2" tvg-logo="http://78.47.174.211/logos/elevensports2.png" group-title="DEPORTES",DEPORTES | ELEVEN SPORTS 2
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/10427
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ELEVEN SPORTS 3" tvg-logo="http://78.47.174.211/logos/elevensports3.png" group-title="DEPORTES",DEPORTES | ELEVEN SPORTS 3
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/10428
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ELEVEN SPORTS 4" tvg-logo="http://78.47.174.211/logos/elevensports4.png" group-title="DEPORTES",DEPORTES | ELEVEN SPORTS 4
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/10430
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ELEVEN SPORTS 5" tvg-logo="http://78.47.174.211/logos/elevensports5.png" group-title="DEPORTES",DEPORTES | ELEVEN SPORTS 5
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/10431
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ELEVEN SPORTS 6" tvg-logo="http://78.47.174.211/logos/elevensports6.png" group-title="DEPORTES",DEPORTES | ELEVEN SPORTS 6
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/10432
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | BEIN SPORTS Ñ" tvg-logo="http://78.47.174.211/logos/beinsportsn.png" group-title="DEPORTES",DEPORTES | BEIN SPORTS Ñ
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/11203
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | BEIN SPORTS XTRA EN ESPAÑOL" tvg-logo="http://78.47.174.211/logos/beinsportsxtra.png" group-title="DEPORTES",DEPORTES | BEIN SPORTS XTRA EN ESPAÑOL
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/22751
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | BEIN SPORTS LA LIGA HD" tvg-logo="http://78.47.174.211/logos/beinsportslaliga.png" group-title="DEPORTES",DEPORTES | BEIN SPORTS LA LIGA HD
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/11205
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | SKY SPORTS F1" tvg-logo="http://78.47.174.211/logos/skysportsf1.png" group-title="DEPORTES",DEPORTES | SKY SPORTS F1
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/11221
-#EXTINF:-1 tvg-id="EPG123.24519.schedulesdirect.org" tvg-name="DEPORTES | FUTV" tvg-logo="http://78.47.174.211/logos/futv.png" group-title="DEPORTES",DEPORTES | FUTV
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/110
-#EXTINF:-1 tvg-id="" tvg-name="US | ESPN 2" tvg-logo="http://78.47.174.211/logos/espn2.png" group-title="US | SPORTS",US | ESPN 2
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/197
-#EXTINF:-1 tvg-id="" tvg-name="US | ESPN 1" tvg-logo="http://78.47.174.211/logos/espn.png" group-title="US | SPORTS",US | ESPN 1
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/196
-#EXTINF:-1 tvg-id="" tvg-name="US | ESPN DEPORTES" tvg-logo="http://78.47.174.211/logos/espndeportes.png" group-title="US | SPORTS",US | ESPN DEPORTES
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/477
-#EXTINF:-1 tvg-id="" tvg-name="US | FS1" tvg-logo="http://78.47.174.211/logos/fs1.png" group-title="US | SPORTS",US | FS1
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/257
-#EXTINF:-1 tvg-id="I618.33178.zap2it.com" tvg-name="US | FS2" tvg-logo="http://78.47.174.211/logos/fs2.png" group-title="US | SPORTS",US | FS2
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/258
-#EXTINF:-1 tvg-id="" tvg-name="US | FOX SOCCER PLUS" tvg-logo="http://78.47.174.211/logos/foxsoccerplus.png" group-title="US | SPORTS",US | FOX SOCCER PLUS
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/256
-#EXTINF:-1 tvg-id="" tvg-name="US | BEIN SPORTS" tvg-logo="http://78.47.174.211/logos/beinsportsusa.png" group-title="US | SPORTS",US | BEIN SPORTS
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/252
-#EXTINF:-1 tvg-id="" tvg-name="US | TENNIS CHANNEL" tvg-logo="http://78.47.174.211/logos/tennischannelusa.png" group-title="US | SPORTS",US | TENNIS CHANNEL
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/216
-#EXTINF:-1 tvg-id="" tvg-name="US | UFC FIGHT PASS" tvg-logo="http://78.47.174.211/logos/ufc.png" group-title="US | SPORTS",US | UFC FIGHT PASS
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/271
-#EXTINF:-1 tvg-id="" tvg-name="US | NBC SPORTS CHICAGO" tvg-logo="http://78.47.174.211/logos/nbcsportschicago.png" group-title="US | SPORTS",US | NBC SPORTS CHICAGO
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/228
-#EXTINF:-1 tvg-id="" tvg-name="US | BTN SPORTS" tvg-logo="http://78.47.174.211/logos/btnsports.png" group-title="US | SPORTS",US | BTN SPORTS
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/431
-#EXTINF:-1 tvg-id="" tvg-name="US | NBA TV" tvg-logo="http://78.47.174.211/logos/nbatv.png" group-title="US | SPORTS",US | NBA TV
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/434
-#EXTINF:-1 tvg-id="" tvg-name="US | NBCSN SPORTS BAY AREA" tvg-logo="http://78.47.174.211/logos/nbcsportsbayarea.png" group-title="US | SPORTS",US | NBCSN SPORTS BAY AREA
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/469
-#EXTINF:-1 tvg-id="" tvg-name="US | ESPN SEC" tvg-logo="http://78.47.174.211/logos/espnsec.png" group-title="US | SPORTS",US | ESPN SEC
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/482
-#EXTINF:-1 tvg-id="" tvg-name="US | ESPN NEWS" tvg-logo="http://78.47.174.211/logos/espnnews.png" group-title="US | SPORTS",US | ESPN NEWS
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/487
-#EXTINF:-1 tvg-id="" tvg-name="US | ESPN U" tvg-logo="http://78.47.174.211/logos/espnu.png" group-title="US | SPORTS",US | ESPN U
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/489
-#EXTINF:-1 tvg-id="" tvg-name="US | BOX NATION" tvg-logo="http://78.47.174.211/logos/boxnation.png" group-title="US | SPORTS",US | BOX NATION
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/491
-#EXTINF:-1 tvg-id="" tvg-name="US | STADIUM" tvg-logo="http://78.47.174.211/logos/stadium.png" group-title="US | SPORTS",US | STADIUM
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/502
-#EXTINF:-1 tvg-id="" tvg-name="US | NESN" tvg-logo="http://78.47.174.211/logos/nesn.png" group-title="US | SPORTS",US | NESN
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/503
-#EXTINF:-1 tvg-id="" tvg-name="US | NBC SPORTS PHILADELPHIA" tvg-logo="http://78.47.174.211/logos/nbcsportsphiladelphia.png" group-title="US | SPORTS",US | NBC SPORTS PHILADELPHIA
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/507
-#EXTINF:-1 tvg-id="" tvg-name="US | NBC SPORTS BOSTON" tvg-logo="http://78.47.174.211/logos/nbcsportsboston.png" group-title="US | SPORTS",US | NBC SPORTS BOSTON
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/508
-#EXTINF:-1 tvg-id="" tvg-name="US | NBC SPORTS CALIFORNIA" tvg-logo="http://78.47.174.211/logos/nbcsportscalifornia.png" group-title="US | SPORTS",US | NBC SPORTS CALIFORNIA
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/509
-#EXTINF:-1 tvg-id="" tvg-name="US | NBC SPORTS WASHINGTON" tvg-logo="http://78.47.174.211/logos/nbcsportswashington.png" group-title="US | SPORTS",US | NBC SPORTS WASHINGTON
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/510
-#EXTINF:-1 tvg-id="" tvg-name="US | SPECTRUM NETWORK" tvg-logo="http://78.47.174.211/logos/spectrumsportsnet.png" group-title="US | SPORTS",US | SPECTRUM NETWORK
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/511
-#EXTINF:-1 tvg-id="" tvg-name="US | NESN PLUS" tvg-logo="http://78.47.174.211/logos/nesnplus.png" group-title="US | SPORTS",US | NESN PLUS
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/519
-#EXTINF:-1 tvg-id="" tvg-name="US | TELEMUNDO 52 LOS ANGELES (KVEA)" tvg-logo="http://78.47.174.211/logos/telemundo.png" group-title="US | LOCAL",US | TELEMUNDO 52 LOS ANGELES (KVEA)
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/14084
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION MIAMI" tvg-logo="http://78.47.174.211/logos/univision.png" group-title="UNIVISION +",UNIVISION MIAMI
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/40290
-#EXTINF:-1 tvg-id="" tvg-name="[UK] Sport: TNT Sport 1 (1080)" tvg-logo="http://78.47.174.211/logos/uk.png" group-title="UK",[UK] Sport: TNT Sport 1 (1080)
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50951
-#EXTINF:-1 tvg-id="" tvg-name="[UK] Sport: TNT Sport 2 (1080)" tvg-logo="http://78.47.174.211/logos/uk.png" group-title="UK",[UK] Sport: TNT Sport 2 (1080)
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50952
-#EXTINF:-1 tvg-id="" tvg-name="[UK] Sport: TNT Sport 3 (1080)" tvg-logo="http://78.47.174.211/logos/uk.png" group-title="UK",[UK] Sport: TNT Sport 3 (1080)
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50953
-#EXTINF:-1 tvg-id="" tvg-name="[UK] Sport: TNT Sport 4 (1080)" tvg-logo="http://78.47.174.211/logos/uk.png" group-title="UK",[UK] Sport: TNT Sport 4 (1080)
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50954
-#EXTINF:-1 tvg-id="" tvg-name="[DE] SKY SPORT PREMIER LEAGUE 4K" tvg-logo="http://78.47.174.211/logos/alemania.png" group-title="ALEMANIA",[DE] SKY SPORT PREMIER LEAGUE 4K
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/51417
-#EXTINF:-1 tvg-id="" tvg-name="[PT] Sport TV 1" tvg-logo="http://78.47.174.211/logos/portugal.png" group-title="PORTUGAL",[PT] Sport TV 1
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50673
-#EXTINF:-1 tvg-id="" tvg-name="[PT] Sport TV 1  HD" tvg-logo="http://78.47.174.211/logos/portugal.png" group-title="PORTUGAL",[PT] Sport TV 1  HD
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50674
-#EXTINF:-1 tvg-id="" tvg-name="[PT] Sport TV 2" tvg-logo="http://78.47.174.211/logos/portugal.png" group-title="PORTUGAL",[PT] Sport TV 2
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50676
-#EXTINF:-1 tvg-id="" tvg-name="[PT] Sport TV 2 HD" tvg-logo="http://78.47.174.211/logos/portugal.png" group-title="PORTUGAL",[PT] Sport TV 2 HD
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50678
-#EXTINF:-1 tvg-id="" tvg-name="[PT] Sport TV 3" tvg-logo="http://78.47.174.211/logos/portugal.png" group-title="PORTUGAL",[PT] Sport TV 3
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50679
-#EXTINF:-1 tvg-id="" tvg-name="[PT] Sport TV 3  HD" tvg-logo="http://78.47.174.211/logos/portugal.png" group-title="PORTUGAL",[PT] Sport TV 3  HD
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50680
-#EXTINF:-1 tvg-id="" tvg-name="[PT] Sport TV 4" tvg-logo="http://78.47.174.211/logos/portugal.png" group-title="PORTUGAL",[PT] Sport TV 4
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50682
-#EXTINF:-1 tvg-id="" tvg-name="[PT] Sport TV 4  HD" tvg-logo="http://78.47.174.211/logos/portugal.png" group-title="PORTUGAL",[PT] Sport TV 4  HD
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50683
-#EXTINF:-1 tvg-id="" tvg-name="[PT] Sport TV 5" tvg-logo="http://78.47.174.211/logos/portugal.png" group-title="PORTUGAL",[PT] Sport TV 5
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50685
-#EXTINF:-1 tvg-id="" tvg-name="[PT] Sport TV 5 HD" tvg-logo="http://78.47.174.211/logos/portugal.png" group-title="PORTUGAL",[PT] Sport TV 5 HD
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50687
-#EXTINF:-1 tvg-id="" tvg-name="[PT] Sport TV 6" tvg-logo="http://78.47.174.211/logos/portugal.png" group-title="PORTUGAL",[PT] Sport TV 6
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50688
-#EXTINF:-1 tvg-id="" tvg-name="[PT] Sport TV NBA HD" tvg-logo="http://78.47.174.211/logos/portugal.png" group-title="PORTUGAL",[PT] Sport TV NBA HD
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50691
-#EXTINF:-1 tvg-id="" tvg-name="[PT] Eleven Sport 1  HD" tvg-logo="http://78.47.174.211/logos/portugal.png" group-title="PORTUGAL",[PT] Eleven Sport 1  HD
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50692
-#EXTINF:-1 tvg-id="" tvg-name="[PT] Eleven Sport 2  HD" tvg-logo="http://78.47.174.211/logos/portugal.png" group-title="PORTUGAL",[PT] Eleven Sport 2  HD
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50694
-#EXTINF:-1 tvg-id="" tvg-name="[PT] Eleven Sport 3" tvg-logo="http://78.47.174.211/logos/portugal.png" group-title="PORTUGAL",[PT] Eleven Sport 3
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50696
-#EXTINF:-1 tvg-id="" tvg-name="[PT] Eleven Sport 3 HD" tvg-logo="http://78.47.174.211/logos/portugal.png" group-title="PORTUGAL",[PT] Eleven Sport 3 HD
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50698
-#EXTINF:-1 tvg-id="" tvg-name="[PT] Eleven Sport 4 HD" tvg-logo="http://78.47.174.211/logos/portugal.png" group-title="PORTUGAL",[PT] Eleven Sport 4 HD
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50699
-#EXTINF:-1 tvg-id="" tvg-name="[PT] Eleven Sport 5" tvg-logo="http://78.47.174.211/logos/portugal.png" group-title="PORTUGAL",[PT] Eleven Sport 5
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50701
-#EXTINF:-1 tvg-id="" tvg-name="[PT] Eleven Sport 5 HD" tvg-logo="http://78.47.174.211/logos/portugal.png" group-title="PORTUGAL",[PT] Eleven Sport 5 HD
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50703
-#EXTINF:-1 tvg-id="" tvg-name="[PT] Eleven Sport 6" tvg-logo="http://78.47.174.211/logos/portugal.png" group-title="PORTUGAL",[PT] Eleven Sport 6
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50704
-#EXTINF:-1 tvg-id="" tvg-name="[PT] Eurosport 1" tvg-logo="http://78.47.174.211/logos/portugal.png" group-title="PORTUGAL",[PT] Eurosport 1
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50707
-#EXTINF:-1 tvg-id="" tvg-name="[PT] Eurosport  2" tvg-logo="http://78.47.174.211/logos/portugal.png" group-title="PORTUGAL",[PT] Eurosport  2
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50708
-#EXTINF:-1 tvg-id="" tvg-name="[PT] Benfica TV HD" tvg-logo="http://78.47.174.211/logos/portugal.png" group-title="PORTUGAL",[PT] Benfica TV HD
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50715
-
-#EXTINF:-1 tvg-id="" tvg-name="[AR] A24 HD (lt)" tvg-logo="http://78.47.174.211/logos/a24arg.png" group-title="ARGENTINA",[AR] A24 HD (lt)
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/43151
-#EXTINF:-1 tvg-id="" tvg-name="[AR] AMERICA 24 (lt)" tvg-logo="http://78.47.174.211/logos/americatvarg.png" group-title="ARGENTINA",[AR] AMERICA 24 (lt)
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/43153
-#EXTINF:-1 tvg-id="" tvg-name="[AR] ARGENTINA MAGAZINE (lt)" tvg-logo="http://78.47.174.211/logos/ciudadmagazine.png" group-title="ARGENTINA",[AR] ARGENTINA MAGAZINE (lt)
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/43155
-#EXTINF:-1 tvg-id="" tvg-name="[AR] ARGENTINA PAKAPAKA (lt)" tvg-logo="http://78.47.174.211/logos/pakapaka.png" group-title="ARGENTINA",[AR] ARGENTINA PAKAPAKA (lt)
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/43156
-#EXTINF:-1 tvg-id="" tvg-name="[AR] C5N (lt)" tvg-logo="http://78.47.174.211/logos/c5narg.png" group-title="ARGENTINA",[AR] C5N (lt)
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/43158
-#EXTINF:-1 tvg-id="" tvg-name="[AR] CANAL 26 HD (lt)" tvg-logo="http://78.47.174.211/logos/canal26arg.png" group-title="ARGENTINA",[AR] CANAL 26 HD (lt)
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/43160
-#EXTINF:-1 tvg-id="" tvg-name="[AR] Cronica (Argentina) (lt)" tvg-logo="http://78.47.174.211/logos/cronicaarg.png" group-title="ARGENTINA",[AR] Cronica (Argentina) (lt)
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/43163
-#EXTINF:-1 tvg-id="" tvg-name="[AR] EL NUEVE HD 24(lt)" tvg-logo="http://78.47.174.211/logos/elnueve.png" group-title="ARGENTINA",[AR] EL NUEVE HD 24(lt)
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/43166
-#EXTINF:-1 tvg-id="" tvg-name="[AR] EL NUEVE HD (lt)" tvg-logo="http://78.47.174.211/logos/elnueve.png" group-title="ARGENTINA",[AR] EL NUEVE HD (lt)
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/43167
-#EXTINF:-1 tvg-id="" tvg-name="[AR] ENCUENTRO (lt)" tvg-logo="http://78.47.174.211/logos/encuentro.png" group-title="ARGENTINA",[AR] ENCUENTRO (lt)
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/43172
-#EXTINF:-1 tvg-id="" tvg-name="[AR] La Nacion (Argentina) (lt)" tvg-logo="http://78.47.174.211/logos/lanacion.png" group-title="ARGENTINA",[AR] La Nacion (Argentina) (lt)
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/43175
-#EXTINF:-1 tvg-id="" tvg-name="[AR] MULTIVISION CANAL 9 SALTA (lt)" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/Canal-9-Multivision-en-vivo-Online.png" group-title="ARGENTINA",[AR] MULTIVISION CANAL 9 SALTA (lt)
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/43177
-#EXTINF:-1 tvg-id="" tvg-name="[AR] TELEFE HD * (lt)" tvg-logo="http://78.47.174.211/logos/telefe.png" group-title="ARGENTINA",[AR] TELEFE HD * (lt)
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/43180
-#EXTINF:-1 tvg-id="" tvg-name="[AR] TELESUR  :) (lt)" tvg-logo="https://www.telesurtv.net/pages/Especiales/Aniversario_teleSUR/1/img/logo-telesur-hor.png" group-title="ARGENTINA",[AR] TELESUR  :) (lt)
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/43183
-#EXTINF:-1 tvg-id="" tvg-name="[AR] TN HD (lt)" tvg-logo="http://78.47.174.211/logos/tn.png" group-title="ARGENTINA",[AR] TN HD (lt)
-http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/43185
-#EXTINF:-1 tvg-id="" tvg-name="[AR] TV PUBLICA (lt)" tvg-logo="http://78.47.174.211/logos/tvpublica.png" group-title="ARGENTINA",[AR] TV PUBLICA (lt)
+#EXTINF:-1 tvg-id="17" tvg-logo="http://78.47.174.211/logos/clarosports.png" group-title="DEPORTES",CLARO SPORTS
+http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/293
+#EXTINF:-1 tvg-id="18" tvg-logo="http://78.47.174.211/logos/winsports.png" group-title="DEPORTES",WIN SPORTS
+http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/6377
+#EXTINF:-1 tvg-id="19" tvg-logo="http://78.47.174.211/logos/winsportsplus.png" group-title="DEPORTES",WIN SPORTS +
+http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/6378
+#EXTINF:-1 tvg-id="20" tvg-logo="http://78.47.174.211/logos/directvsports.png" group-title="DEPORTES",Directv Sports ARG
+http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/43192
+#EXTINF:-1 tvg-id="21" tvg-logo="http://78.47.174.211/logos/directvsports2.png" group-title="DEPORTES",Directv Sports 2 ARG
+http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/43193
+#EXTINF:-1 tvg-id="22" tvg-logo="http://78.47.174.211/logos/directvsportsplus.png" group-title="DEPORTES",Directv Sports + ARG
+http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/43194
+#EXTINF:-1 tvg-id="23" tvg-logo="http://78.47.174.211/logos/tntsports.png" group-title="DEPORTES",TNT Sports ARG
+http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/43204
+#EXTINF:-1 tvg-id="24" tvg-logo="http://78.47.174.211/logos/tycsports.png" group-title="DEPORTES",TYC SPORTS
+http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/138
+#EXTINF:-1 tvg-id="25" tvg-logo="http://78.47.174.211/logos/tycsports.png" group-title="DEPORTES",TYC SPORTS PLAY
+http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/29327
+#EXTINF:-1 tvg-id="26" tvg-logo="http://78.47.174.211/logos/tycsports.png" group-title="DEPORTES",TYC SPORTS INTERNACIONAL
+http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/43206
+#EXTINF:-1 tvg-id="27" tvg-logo="http://78.47.174.211/logos/espn.png" group-title="DEPORTES",ESPN 1 ARG
+http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/135
+#EXTINF:-1 tvg-id="28" tvg-logo="http://78.47.174.211/logos/espn2.png" group-title="DEPORTES",ESPN 2 ARG
+http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/136
+#EXTINF:-1 tvg-id="29" tvg-logo="http://78.47.174.211/logos/espn3.png" group-title="DEPORTES",ESPN 3 ARG
+http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/137
+#EXTINF:-1 tvg-id="30" tvg-logo="http://78.47.174.211/logos/espn4.png" group-title="DEPORTES",ESPN 4 ARG
+http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/43198
+#EXTINF:-1 tvg-id="31" tvg-logo="http://78.47.174.211/logos/espnpremium.png" group-title="DEPORTES",ESPN PREMIUM ARG
+http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/43200
+#EXTINF:-1 tvg-id="32" tvg-logo="http://78.47.174.211/logos/foxsports.png" group-title="DEPORTES",FOX SPORTS 1 ARG
+http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/29300
+#EXTINF:-1 tvg-id="33" tvg-logo="http://78.47.174.211/logos/foxsports2.png" group-title="DEPORTES",FOX SPORTS 2 ARG
+http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/29303
+#EXTINF:-1 tvg-id="34" tvg-logo="http://78.47.174.211/logos/foxsports3.png" group-title="DEPORTES",FOX SPORTS 3 ARG
+http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/29306
+#EXTINF:-1 tvg-id="35" tvg-logo="http://78.47.174.211/logos/deportvarg.png" group-title="DEPORTES",Deport TV
+http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/29283
+#EXTINF:-1 tvg-id="36" tvg-logo="http://78.47.174.211/logos/tvpublica.png" group-title="ARGENTINA",TV PUBLICA
 http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/43188
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/futv.png" group-title="DEPORTES",FUTV
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/110
 
-
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: ESPN 1" tvg-logo="http://78.47.174.211/logos/espn.png" group-title="ARGENTINA",SP: ARG: ESPN 1
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/43195
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: ESPN 2" tvg-logo="http://78.47.174.211/logos/espn2.png" group-title="ARGENTINA",SP: ARG: ESPN 2
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/43196
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: ESPN 3" tvg-logo="http://78.47.174.211/logos/espn3.png" group-title="ARGENTINA",SP: ARG: ESPN 3
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/43197
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: ESPN 4" tvg-logo="http://78.47.174.211/logos/espn4.png" group-title="ARGENTINA",SP: ARG: ESPN 4
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/43198
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: ESPN Extra" tvg-logo="http://78.47.174.211/logos/espnplus.png" group-title="ARGENTINA",SP: ARG: ESPN Extra
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/43199
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: ESPN Premium" tvg-logo="http://78.47.174.211/logos/espnpremium.png" group-title="ARGENTINA",SP: ARG: ESPN Premium
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/43200
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TNT SPORTS EN ESPAÑOL" tvg-logo="http://78.47.174.211/logos/tntsports.png" group-title="DEPORTES",DEPORTES | TNT SPORTS EN ESPAÑOL
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/268
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: TyC Sports Local" tvg-logo="http://78.47.174.211/logos/tycsports.png" group-title="ARGENTINA",SP: ARG: TyC Sports Local
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/43205
-#EXTINF:-1 tvg-id="" tvg-name="DEP. ARG | TYC SPORTS INTERNACIONAL" tvg-logo="http://78.47.174.211/logos/tycsports.png" group-title="ARGENTINA DEPORTES",DEP. ARG | TYC SPORTS INTERNACIONAL
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/29324
-#EXTINF:-1 tvg-id="" tvg-name="DEP. ARG | TYC SPORTS PLAY" tvg-logo="http://78.47.174.211/logos/tycsports.png" group-title="ARGENTINA DEPORTES",DEP. ARG | TYC SPORTS PLAY
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/29327
-#EXTINF:-1 tvg-id="" tvg-name="DEP. ARG | Deport TV" tvg-logo="http://78.47.174.211/logos/deportvarg.png" group-title="ARGENTINA DEPORTES",DEP. ARG | Deport TV
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/29283
-#EXTINF:-1 tvg-id="I296.30262.schedulesdirect.org" tvg-name="DEPORTES | FOX SPORTS 1 ARG" tvg-logo="http://78.47.174.211/logos/foxsports.png" group-title="DEPORTES",DEPORTES | FOX SPORTS 1 ARG
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/127
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | FOX SPORTS 2 ARG" tvg-logo="http://78.47.174.211/logos/foxsports2.png" group-title="DEPORTES",DEPORTES | FOX SPORTS 2 ARG
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/128
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | FOX SPORTS 3 ARG" tvg-logo="http://78.47.174.211/logos/foxsports3.png" group-title="DEPORTES",DEPORTES | FOX SPORTS 3 ARG
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/129
-#EXTINF:-1 tvg-id="" tvg-name="DEP. ARG | FOX SPORTS 3" tvg-logo="http://78.47.174.211/logos/foxsports3.png" group-title="ARGENTINA DEPORTES",DEP. ARG | FOX SPORTS 3
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/29306
-
-#EXTINF:-1 tvg-id="" tvg-name="DEP. ARG | DIRECTV SPORTS" tvg-logo="http://78.47.174.211/logos/directvsports.png" group-title="ARGENTINA DEPORTES",DEP. ARG | DIRECTV SPORTS
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/29312
-#EXTINF:-1 tvg-id="" tvg-name="DEP. ARG | DIRECTV SPORTS 2" tvg-logo="http://78.47.174.211/logos/directvsports2.png" group-title="ARGENTINA DEPORTES",DEP. ARG | DIRECTV SPORTS 2
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/29315
-#EXTINF:-1 tvg-id="" tvg-name="DEP. ARG | DIRECTV SPORTS PLUS" tvg-logo="http://78.47.174.211/logos/directvsportsplus.png" group-title="ARGENTINA DEPORTES",DEP. ARG | DIRECTV SPORTS PLUS
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/29318
-#EXTINF:-1 tvg-id="" tvg-name="[PE] Peru Magico" tvg-logo="http://78.47.174.211/logos/peru.png" group-title="PERU",[PE] Peru Magico
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/42871
-#EXTINF:-1 tvg-id="" tvg-name="[BO] ATB" tvg-logo="http://78.47.174.211/logos/bolivia.png" group-title="BOLIVIA",[BO] ATB
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/47792
-#EXTINF:-1 tvg-id="" tvg-name="[BO] Bolivia TV" tvg-logo="http://78.47.174.211/logos/bolivia.png" group-title="BOLIVIA",[BO] Bolivia TV
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/47793
-#EXTINF:-1 tvg-id="" tvg-name="[BO] Bolivision" tvg-logo="http://78.47.174.211/logos/bolivia.png" group-title="BOLIVIA",[BO] Bolivision
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/47794
-#EXTINF:-1 tvg-id="" tvg-name="[BO] Unitel HD "La Paz"" tvg-logo="http://78.47.174.211/logos/bolivia.png" group-title="BOLIVIA",[BO] Unitel HD "La Paz"
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/47795
-#EXTINF:-1 tvg-id="" tvg-name="[BO] Unitel HD "Cochabamba"" tvg-logo="http://78.47.174.211/logos/bolivia.png" group-title="BOLIVIA",[BO] Unitel HD "Cochabamba"
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/47796
-#EXTINF:-1 tvg-id="" tvg-name="[BO] Red UNO FHD "La Paz"" tvg-logo="http://78.47.174.211/logos/bolivia.png" group-title="BOLIVIA",[BO] Red UNO FHD "La Paz"
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/47797
-#EXTINF:-1 tvg-id="" tvg-name="[BO] RTP" tvg-logo="http://78.47.174.211/logos/bolivia.png" group-title="BOLIVIA",[BO] RTP
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/47798
-#EXTINF:-1 tvg-id="" tvg-name="[BO] Red Pat La Paz" tvg-logo="http://78.47.174.211/logos/bolivia.png" group-title="BOLIVIA",[BO] Red Pat La Paz
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/47799
-#EXTINF:-1 tvg-id="" tvg-name="[BO] Red Advenir" tvg-logo="http://78.47.174.211/logos/bolivia.png" group-title="BOLIVIA",[BO] Red Advenir
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/47800
-
-#EXTINF:-1 tvg-id="" tvg-name="SP: BO: Tigo Sports" tvg-logo="http://78.47.174.211/logos/bolivia.png" group-title="BOLIVIA",SP: BO: Tigo Sports
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/47803
-#EXTINF:-1 tvg-id="" tvg-name="SP: BO: Tigo Sports 2" tvg-logo="http://78.47.174.211/logos/bolivia.png" group-title="BOLIVIA",SP: BO: Tigo Sports 2
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/47804
-#EXTINF:-1 tvg-id="" tvg-name="SP: BO: Tigo Sports 3" tvg-logo="http://78.47.174.211/logos/bolivia.png" group-title="BOLIVIA",SP: BO: Tigo Sports 3
-http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/47805
-
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/portugal.png" group-title="DEPORTES",SPORT TV 1 HD
+http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50674
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/portugal.png" group-title="DEPORTES",SPORT TV 2 HD
+http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50678
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/portugal.png" group-title="DEPORTES",SPORT TV 3 HD
+http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50680
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/portugal.png" group-title="DEPORTES",SPORT TV 4 HD
+http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50683
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/portugal.png" group-title="DEPORTES",SPORT TV 5 HD
+http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50687
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/portugal.png" group-title="DEPORTES",SPORT TV 6
+http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50688
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/portugal.png" group-title="DEPORTES",SPORT TV NBA HD
+http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50691
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/portugal.png" group-title="DEPORTES",ELEVEN SPORT 1 HD
+http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50692
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/portugal.png" group-title="DEPORTES",ELEVEN SPORT 2 HD
+http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50694
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/portugal.png" group-title="DEPORTES",ELEVEN SPORT 3 HD
+http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50698
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/portugal.png" group-title="DEPORTES",ELEVEN SPORT 4 HD
+http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50699
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/portugal.png" group-title="DEPORTES",ELEVEN SPORT 5 HD
+http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50703
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/portugal.png" group-title="DEPORTES",ELEVEN SPORT 6
+http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50704
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/portugal.png" group-title="DEPORTES",BENFICA TV HD
+http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50715
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/uk.png" group-title="DEPORTES",TNT SPORT 1 UK
+http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50951
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/uk.png" group-title="DEPORTES",TNT SPORT 2 UK
+http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50952
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/uk.png" group-title="DEPORTES",TNT SPORT 3 UK
+http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50953
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/uk.png" group-title="DEPORTES",TNT SPORT 4 UK
+http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/50954
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/alemania.png" group-title="DEPORTES",SKY SPORT PREMIER LEAGUE
+http://conectplus.com.ar:25461/CanalesTV2024/y5az8kcdwz/51417
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/eurosport.png" group-title="DEPORTES",EUROSPORT 1
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/276
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/eurosport2.png" group-title="DEPORTES",EUROSPORT 2
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/277
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/realmadridtv.png" group-title="DEPORTES",REAL MADRID TV
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/278
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/beinsportsusa.png" group-title="DEPORTES",BEIN SPORTS
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/252
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/beinsportsxtra.png" group-title="DEPORTES",BEIN SPORTS Ñ
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/22751
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/skysportsf1.png" group-title="DEPORTES",SKY SPORTS F1
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/11221
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/fs1.png" group-title="DEPORTES",FS1 USA
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/257
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/fs2.png" group-title="DEPORTES",FS2 USA
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/258
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/foxsoccerplus.png" group-title="DEPORTES",FOX SOCCER PLUS USA
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/256
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/espn.png" group-title="DEPORTES",ESPN 1 USA
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/196
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/espn2.png" group-title="DEPORTES",ESPN 2 USA
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/197
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/espndeportes.png" group-title="DEPORTES",ESPN DEPORTES USA
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/477
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/espnsec.png" group-title="DEPORTES",ESPN SEC USA
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/482
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/espnnews.png" group-title="DEPORTES",ESPN NEWS USA
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/487
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/espnu.png" group-title="DEPORTES",ESPN U USA
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/489
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/tennischannelusa.png" group-title="DEPORTES",TENNIS CHANNEL USA
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/216
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/ufc.png" group-title="DEPORTES",UFC FIGHT PASS USA
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/271
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/nbatv.png" group-title="DEPORTES",NBA TV USA
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/434
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/boxnation.png" group-title="DEPORTES",BOX NATION USA
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/491
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/stadium.png" group-title="DEPORTES",STADIUM USA
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/502
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/nesn.png" group-title="DEPORTES",NESN USA
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/503
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/nesnplus.png" group-title="DEPORTES",NESN PLUS USA
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/519
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/spectrumsportsnet.png" group-title="DEPORTES",SPECTRUM NETWORK USA
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/511
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/nbcsportschicago.png" group-title="DEPORTES",NBC SPORTS CHICAGO USA
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/228
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/btnsports.png" group-title="DEPORTES",BTN SPORTS USA
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/431
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/nbcsportsbayarea.png" group-title="DEPORTES",NBCSN SPORTS BAY AREA USA
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/469
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/nbcsportsphiladelphia.png" group-title="DEPORTES",NBC SPORTS PHILADELPHIA USA
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/507
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/nbcsportsboston.png" group-title="DEPORTES",NBC SPORTS BOSTON USA
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/508
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/nbcsportscalifornia.png" group-title="DEPORTES",NBC SPORTS CALIFORNIA USA
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/509
+#EXTINF:-1 tvg-id="" tvg-logo="http://78.47.174.211/logos/nbcsportswashington.png" group-title="DEPORTES",NBC SPORTS WASHINGTON USA
+http://conectplus.com.ar:25461/Exoplay/x8t3dmm6sg/510
 
